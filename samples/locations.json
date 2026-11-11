@@ -1,0 +1,115 @@
+{
+  "success": true,
+  "data": {
+    "query": "new york",
+    "type": "hotels",
+    "market": "us",
+    "returned": 10,
+    "results": [
+      {
+        "type": "NEIGHBORHOOD",
+        "region_id": "129440",
+        "hotel_id": null,
+        "name": "Manhattan",
+        "full_name": "Manhattan, New York, New York, United States of America",
+        "coordinates": {
+          "lat": 40.783062,
+          "lng": -73.971252
+        },
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "code3": "USA"
+        },
+        "airport_code": null,
+        "hierarchy": {
+          "multi_city_region_id": "178293",
+          "city_region_id": null,
+          "nearest_airport_code": "NYC",
+          "nearest_airport_region_id": "6139058",
+          "metro_code": "NYC"
+        },
+        "address": null,
+        "use_with": "region_id"
+      },
+      {
+        "type": "METROCODE",
+        "region_id": "6139058",
+        "hotel_id": null,
+        "name": "New York, NY (NYC-All Airports)",
+        "full_name": "New York, NY, United States of America (NYC-All Airports)",
+        "coordinates": {
+          "lat": 40.90647770163847,
+          "lng": -73.853904323437
+        },
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "code3": "USA"
+        },
+        "airport_code": null,
+        "hierarchy": {
+          "multi_city_region_id": "178293",
+          "city_region_id": null,
+          "nearest_airport_code": "NYC",
+          "nearest_airport_region_id": "6139058",
+          "metro_code": "NYC"
+        },
+        "address": null,
+        "use_with": "region_id"
+      },
+      {
+        "type": "POI",
+        "region_id": "502080",
+        "hotel_id": null,
+        "name": "Times Square",
+        "full_name": "Times Square, New York, New York, United States of America",
+        "coordinates": {
+          "lat": 40.757410161691084,
+          "lng": -73.98618346732783
+        },
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "code3": "USA"
+        },
+        "airport_code": null,
+        "hierarchy": {
+          "multi_city_region_id": "178293",
+          "city_region_id": null,
+          "nearest_airport_code": "NYC",
+          "nearest_airport_region_id": "6139058",
+          "metro_code": "NYC"
+        },
+        "address": null,
+        "use_with": "region_id"
+      },
+      {
+        "type": "CITY",
+        "region_id": "2621",
+        "hotel_id": null,
+        "name": "New York",
+        "full_name": "New York, New York, United States of America",
+        "coordinates": {
+          "lat": 40.712843,
+          "lng": -74.005966
+        },
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "code3": "USA"
+        },
+        "airport_code": null,
+        "hierarchy": {
+          "multi_city_region_id": "178293",
+          "city_region_id": null,
+          "nearest_airport_code": "NYC",
+          "nearest_airport_region_id": "6139058",
+          "metro_code": "NYC"
+        },
+        "address": null,
+        "use_with": "region_id"
+      }
+    ]
+  }
+}

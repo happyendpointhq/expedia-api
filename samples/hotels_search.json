@@ -1,0 +1,245 @@
+{
+  "success": true,
+  "data": {
+    "market": "us",
+    "currency": "USD",
+    "language": "en",
+    "destination": {
+      "mode": "region",
+      "region_id": "178293",
+      "resolved_region_id": "178293",
+      "resolved_name": "New York (and vicinity), New York, United States of America"
+    },
+    "check_in": "2026-12-08",
+    "check_out": "2026-12-11",
+    "nights": 3,
+    "priced_for": {
+      "check_in": "2026-12-08",
+      "check_out": "2026-12-11",
+      "chosen_automatically": false
+    },
+    "occupancy": {
+      "adults": 2,
+      "rooms": 1,
+      "children_ages": []
+    },
+    "applied": {
+      "sort": "price_low_to_high"
+    },
+    "page": 1,
+    "page_size": 50,
+    "returned": 50,
+    "has_more": true,
+    "next_page": 2,
+    "result_count": {
+      "label": "300+ properties",
+      "approximate": 300,
+      "is_lower_bound": true
+    },
+    "coverage": {
+      "max_reachable_results": 500,
+      "reached_end": false,
+      "ceiling_hit": null
+    },
+    "partial_errors": [],
+    "hotels": [
+      {
+        "hotel_id": "29848435",
+        "name": "YMCA West Side",
+        "url": "https://www.expedia.com/New-York-Hotels-YMCA-West-Side.h29848435.Hotel-Information",
+        "neighborhood": "New York",
+        "unit_details": null,
+        "address": {
+          "line": "5 W 63rd St, New York, NY, 10023",
+          "city": "New York",
+          "region": "NY",
+          "country_code": "USA"
+        },
+        "coordinates": {
+          "lat": 40.77048,
+          "lng": -73.98026
+        },
+        "star_rating": 2,
+        "guest_rating": {
+          "score": 7,
+          "scale": 10,
+          "label": "Good",
+          "review_count": 740
+        },
+        "price": {
+          "currency": "USD",
+          "lead_amount": 347.17,
+          "lead_formatted": "$347",
+          "lead_basis": "total",
+          "total": 347.17,
+          "total_formatted": "$347 total",
+          "per_night": 116,
+          "per_night_formatted": "$116 nightly",
+          "strikethrough": null,
+          "strikethrough_formatted": null,
+          "basis_label": "for 3 nights",
+          "taxes_note": "Total with taxes and fees",
+          "availability_message": null
+        },
+        "is_available": true,
+        "is_refundable": false,
+        "is_sponsored": false,
+        "rate_highlights": [],
+        "badges": [],
+        "deal_codes": [],
+        "top_amenities": [
+          "Pool"
+        ],
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/lodging/30000000/29850000/29848500/29848435/04ecedfb.jpg",
+            "thumbnail_url": "https://images.trvl-media.com/lodging/30000000/29850000/29848500/29848435/04ecedfb.jpg?impolicy=resizecrop&ra=fit&rw=455&rh=455",
+            "alt_text": "An ornate building entrance with a detailed archway and a coat of arms above the door."
+          },
+          {
+            "url": "https://images.trvl-media.com/lodging/30000000/29850000/29848500/29848435/f856538f.jpg",
+            "thumbnail_url": "https://images.trvl-media.com/lodging/30000000/29850000/29848500/29848435/f856538f.jpg?impolicy=resizecrop&ra=fit&rw=455&rh=455",
+            "alt_text": "A gym with various exercise machines, a fan, and large windows allowing natural light."
+          },
+          {
+            "url": "https://images.trvl-media.com/lodging/30000000/29850000/29848500/29848435/98ad8d47.jpg",
+            "thumbnail_url": "https://images.trvl-media.com/lodging/30000000/29850000/29848500/29848435/98ad8d47.jpg?impolicy=resizecrop&ra=fit&rw=455&rh=455",
+            "alt_text": "A refrigerated display case in a store with various food items and beverages."
+          }
+        ],
+        "distance_km": null
+      },
+      {
+        "hotel_id": "19794327",
+        "name": "31 Street Broadway Hotel",
+        "url": "https://www.expedia.com/New-York-Hotels-31-Street-Broadway-Hotel.h19794327.Hotel-Information",
+        "neighborhood": "New York",
+        "unit_details": null,
+        "address": {
+          "line": "38 West 31st Street, New York, NY, 10001",
+          "city": "New York",
+          "region": "NY",
+          "country_code": "USA"
+        },
+        "coordinates": {
+          "lat": 40.747202,
+          "lng": -73.987821
+        },
+        "star_rating": 2,
+        "guest_rating": {
+          "score": 5.4,
+          "scale": 10,
+          "label": null,
+          "review_count": 1274
+        },
+        "price": {
+          "currency": "USD",
+          "lead_amount": 775.76,
+          "lead_formatted": "$776",
+          "lead_basis": "total",
+          "total": 775.76,
+          "total_formatted": "$776 total",
+          "per_night": 65,
+          "per_night_formatted": "$65 nightly",
+          "strikethrough": 917.53,
+          "strikethrough_formatted": "$918",
+          "basis_label": "for 3 nights",
+          "taxes_note": "Total with taxes and fees",
+          "availability_message": "We have 1 left at this price"
+        },
+        "is_available": true,
+        "is_refundable": false,
+        "is_sponsored": false,
+        "rate_highlights": [],
+        "badges": [
+          "$142 off"
+        ],
+        "deal_codes": [
+          "Public_Promo"
+        ],
+        "top_amenities": [],
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/lodging/20000000/19800000/19794400/19794327/b02255b8.jpg",
+            "thumbnail_url": "https://images.trvl-media.com/lodging/20000000/19800000/19794400/19794327/b02255b8.jpg?impolicy=resizecrop&ra=fit&rw=455&rh=455",
+            "alt_text": "A historic building with ornate architectural details, including multiple windows and decorative elements on the facade."
+          },
+          {
+            "url": "https://images.trvl-media.com/lodging/20000000/19800000/19794400/19794327/488f5fe9.jpg",
+            "thumbnail_url": "https://images.trvl-media.com/lodging/20000000/19800000/19794400/19794327/488f5fe9.jpg?impolicy=resizecrop&ra=fit&rw=455&rh=455",
+            "alt_text": "A compact room with bunk beds, a small table, and a staircase."
+          },
+          {
+            "url": "https://images.trvl-media.com/lodging/20000000/19800000/19794400/19794327/w1437h1078x3y0-a6e0d104.jpg",
+            "thumbnail_url": "https://images.trvl-media.com/lodging/20000000/19800000/19794400/19794327/w1437h1078x3y0-a6e0d104.jpg?impolicy=resizecrop&ra=fit&rw=455&rh=455",
+            "alt_text": "A spacious waiting area with modern chairs, a brick accent wall, and ceiling fans."
+          }
+        ],
+        "distance_km": null
+      },
+      {
+        "hotel_id": "137506274",
+        "name": "Historical 2BR APT in Brooklyn NY",
+        "url": "https://www.expedia.com/New-York-Hotels-Cozy-Brooklyn-Apartment.h137506274.Hotel-Information",
+        "neighborhood": "Brooklyn",
+        "unit_details": "Entire apartment · Sleeps 5 · 2 bedrooms",
+        "address": {
+          "line": "Brooklyn, NY",
+          "city": "Brooklyn",
+          "region": "NY",
+          "country_code": "USA"
+        },
+        "coordinates": {
+          "lat": 40.647,
+          "lng": -73.969
+        },
+        "star_rating": null,
+        "guest_rating": null,
+        "price": {
+          "currency": "USD",
+          "lead_amount": 1041.6,
+          "lead_formatted": "$1,042",
+          "lead_basis": "total",
+          "total": 1041.6,
+          "total_formatted": "$1,042 total",
+          "per_night": 198,
+          "per_night_formatted": "$198 nightly",
+          "strikethrough": 1211.87,
+          "strikethrough_formatted": "$1,212",
+          "basis_label": "for 3 nights",
+          "taxes_note": "Total with taxes and fees",
+          "availability_message": null
+        },
+        "is_available": true,
+        "is_refundable": false,
+        "is_sponsored": false,
+        "rate_highlights": [],
+        "badges": [
+          "Member Price $170 off"
+        ],
+        "deal_codes": [
+          "MOD"
+        ],
+        "top_amenities": [],
+        "images": [
+          {
+            "url": "https://images.trvl-media.com/lodging/138000000/137510000/137506300/137506274/dca4729a.jpg",
+            "thumbnail_url": "https://images.trvl-media.com/lodging/138000000/137510000/137506300/137506274/dca4729a.jpg?impolicy=resizecrop&ra=fit&rw=455&rh=455",
+            "alt_text": "A stone pathway leading to a house with a wooden fence and flowering bushes."
+          },
+          {
+            "url": "https://images.trvl-media.com/lodging/138000000/137510000/137506300/137506274/a0798bf2.jpg",
+            "thumbnail_url": "https://images.trvl-media.com/lodging/138000000/137510000/137506300/137506274/a0798bf2.jpg?impolicy=resizecrop&ra=fit&rw=455&rh=455",
+            "alt_text": "A modern living room with a glass coffee table, a sofa with cushions, and a television on a cabinet."
+          },
+          {
+            "url": "https://images.trvl-media.com/lodging/138000000/137510000/137506300/137506274/17b4fc1b.jpg",
+            "thumbnail_url": "https://images.trvl-media.com/lodging/138000000/137510000/137506300/137506274/17b4fc1b.jpg?impolicy=resizecrop&ra=fit&rw=455&rh=455",
+            "alt_text": "A living room with a sofa, a glass coffee table, a television on a cabinet, and a dining area in the background."
+          }
+        ],
+        "distance_km": null
+      }
+    ]
+  }
+}
